@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Dwi isi ini pertama
 Dwi ini ubah lagi
 Dwi Ubah ini di github
+=======
+Dwi isi ini pertama
+>>>>>>> parent of d41b36a... Ini dwi ubah lagi
